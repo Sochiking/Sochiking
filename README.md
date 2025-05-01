@@ -1,4 +1,11 @@
+# Hi I'm SochiTech
+this is my little description
 ## Hi there 👋
+
+# WELCOME to My Digital World
+
+# Full-STACK Wed Devolopment 
+
 
 <!--
 **Sochiking/Sochiking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
