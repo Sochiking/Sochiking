@@ -11,6 +11,8 @@ this is my little description
 |Project | Description | Tech
 |-----------|-------------------|------------|
 | 'AI-Driven Chatbot' | Intelligent assistant trained on custom domain data. | Python, Transformers, FastAPI
+| 'NextGen 
+| '
 
 
 
