@@ -7,6 +7,11 @@ this is my little description
 # Full-STACK Wed Devolopment 
 
 
+###  Featured Projects
+|Project | Description | Tech
+|-----------|-------------------|------------|
+
+
 <!--
 **Sochiking/Sochiking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
