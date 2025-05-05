@@ -4,7 +4,7 @@ this is my little description
 
 # WELCOME to My Digital World
 
-# Full-STACK Wed Development 
+# Full-STACK Wed Developer 
 
 
 ###  Featured Projects
