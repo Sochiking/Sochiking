@@ -4,15 +4,26 @@ this is my little description
 
 # WELCOME to My Digital World
 
-# Full-STACK Wed Developer 
+
+## 🚀 About Me  
+I'm a passionate **Web Developer** who loves building modern, responsive, and user-friendly web applications.  
+I focus on **Front-End Development** but also explore **Back-End** and full-stack solutions.
+
+---
+
+## 🛠️ Tech Stack  
+- 🌐 Languages: HTML, CSS, JavaScript (ES6+), TypeScript  
+- 🖼️ Front-End: React.js, Next.js, Tailwind CSS, Bootstrap  
+- ⚙️ Back-End: Node.js, Express.js  
+- 🗄️ Databases: MongoDB, MySQL, PostgreSQL  
+- 🛠️ Tools: Git, GitHub, VS Code, Postman  
+
+---
 
 
-###  Featured Projects
-|Project | Description | Tech
-|-----------|-------------------|------------|
-| 'AI-Driven Chatbot' | Intelligent assistant trained on custom domain data. | Python, Transformers, FastAPI
-| 'NextGen 
-| '
+## 📌 Featured Projects  
+- 🎨 [Portfolio Website](https://your-portfolio-link.com) – My personal portfolio showcasing my work.  
+- 🛒 [E-commerce App](https://matrics-kitchen.vercel.app/) – A full-stack online store with authentication & payment gateway.  
 
 
 
