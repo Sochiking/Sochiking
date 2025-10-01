@@ -22,7 +22,7 @@ I focus on **Front-End Development** but also explore **Back-End** and full-stac
 
 
 ## 📌 Featured Projects  
-- 🎨 [Portfolio Website](https://your-portfolio-link.com) – My personal portfolio showcasing my work.  
+- 🎨 [Portfolio Website](https://portfolio-ecru-ten-96.vercel.app/) – My personal portfolio showcasing my work.  
 - 🛒 [E-commerce App](https://matrics-kitchen.vercel.app/) – A full-stack online store with authentication & payment gateway.  
 
 
