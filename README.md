@@ -14,7 +14,7 @@ I focus on **Front-End Development** but also explore **Back-End** and full-stac
 ## 🛠️ Tech Stack  
 - 🌐 Languages: HTML, CSS, JavaScript (ES6+), TypeScript  
 - 🖼️ Front-End: React.js, Next.js, Tailwind CSS, Bootstrap  
-- ⚙️ Back-End: Node.js, Express.js  
+- ⚙️ Back-End: Python, FastApi  
 - 🗄️ Databases: MongoDB, MySQL, PostgreSQL  
 - 🛠️ Tools: Git, GitHub, VS Code, Postman  
 
